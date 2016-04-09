@@ -1,0 +1,2 @@
+# beginnersServerKit
+# First draft
